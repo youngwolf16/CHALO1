@@ -1,0 +1,200 @@
+[
+    {
+        "name" : 107,
+        "direction" : "UP",
+        "routeid" : 220,
+        "status" : "Active",
+        "los": ["Tambaram" ,
+        "Kadaperi",
+        "Chromepet Government Hospital",
+        "Chromepet MIT Flyover",
+        "Chromepet",
+        "Oberoi Hotel",	
+        "Ponds Company",
+        "Pallavaram",
+        "Army Camp"],
+        "stop": {
+            "stopid": 1,
+            "stopname": "Tambaram",
+            "lat": 12.9249,
+            "long" : 80.1000
+          },
+        "image" : "chalo-2"
+    },
+    {
+        "name" : 208,
+        "direction" : "UP",
+        "routeid" : 220,
+        "status" : "Active",
+        "los": ["Tambaram" ,
+        "Kadaperi",
+        "Chromepet Government Hospital",
+        "Chromepet MIT Flyover",
+        "Chromepet",
+        "Oberoi Hotel",	
+        "Ponds Company",
+        "Pallavaram",
+        "Army Camp"],
+        "stop": {
+            "stopid": 1,
+            "stopname": "Tambaram",
+            "lat": 12.9249,
+            "long" : 80.1000
+          },
+        "image" : "chalo-3"
+    },
+    {
+        "name" : 309,
+        "direction" : "UP",
+        "routeid" : 220,
+        "status" : "Active",
+        "los": ["Tambaram" ,
+        "Kadaperi",
+        "Chromepet Government Hospital",
+        "Chromepet MIT Flyover",
+        "Chromepet",
+        "Oberoi Hotel",	
+        "Ponds Company",
+        "Pallavaram",
+        "Army Camp"],
+        "stop": {
+            "stopid": 1,
+            "stopname": "Tambaram",
+            "lat": 12.9249,
+            "long" : 80.1000
+          },
+        "image" : "chalo-4"
+    },
+    {
+        "name" : 410,
+        "direction" : "UP",
+        "routeid" : 220,
+        "status" : "Active",
+        "los": ["Tambaram" ,
+        "Kadaperi",
+        "Chromepet Government Hospital",
+        "Chromepet MIT Flyover",
+        "Chromepet",
+        "Oberoi Hotel",	
+        "Ponds Company",
+        "Pallavaram",
+        "Army Camp"],
+        "stop": {
+            "stopid": 1,
+            "stopname": "Tambaram",
+            "lat": 12.9249,
+            "long" : 80.1000
+          },
+        "image" : "chalo-5"
+    },
+    {
+        "name" : 511,
+        "direction" : "UP",
+        "routeid" : 220,
+        "status" : "Active",
+        "los": ["Tambaram" ,
+        "Kadaperi",
+        "Chromepet Government Hospital",
+        "Chromepet MIT Flyover",
+        "Chromepet",
+        "Oberoi Hotel",	
+        "Ponds Company",
+        "Pallavaram",
+        "Army Camp"],
+        "stop": {
+            "stopid": 1,
+            "stopname": "Tambaram",
+            "lat": 12.9249,
+            "long" : 80.1000
+          },
+        "image" : "chalo-6"
+    },
+    {
+        "name" : 612,
+        "direction" : "UP",
+        "routeid" : 220,
+        "status" : "Active",
+        "los": ["Tambaram" ,
+        "Kadaperi",
+        "Chromepet Government Hospital",
+        "Chromepet MIT Flyover",
+        "Chromepet",
+        "Oberoi Hotel",	
+        "Ponds Company",
+        "Pallavaram",
+        "Army Camp"],
+        "stop": {
+            "stopid": 1,
+            "stopname": "Tambaram",
+            "lat": 12.9249,
+            "long" : 80.1000
+          },
+        "image" : "chalo-7"
+    },
+    {
+        "name" : 713,
+        "direction" : "UP",
+        "routeid" : 220,
+        "status" : "Active",
+        "los": ["Tambaram" ,
+        "Kadaperi",
+        "Chromepet Government Hospital",
+        "Chromepet MIT Flyover",
+        "Chromepet",
+        "Oberoi Hotel",	
+        "Ponds Company",
+        "Pallavaram",
+        "Army Camp"],
+        "stop": {
+            "stopid": 1,
+            "stopname": "Tambaram",
+            "lat": 12.9249,
+            "long" : 80.1000
+          },
+        "image" : "chalo-8"
+    },
+    {
+        "name" : 814,
+        "direction" : "UP",
+        "routeid" : 220,
+        "status" : "Active",
+        "los": ["Tambaram" ,
+        "Kadaperi",
+        "Chromepet Government Hospital",
+        "Chromepet MIT Flyover",
+        "Chromepet",
+        "Oberoi Hotel",	
+        "Ponds Company",
+        "Pallavaram",
+        "Army Camp"],
+        "stop": {
+            "stopid": 1,
+            "stopname": "Tambaram",
+            "lat": 12.9249,
+            "long" : 80.1000
+          },
+        "image" : "chalo-9"
+    },
+    {
+        "name" : 915,
+        "direction" : "UP",
+        "routeid" : 220,
+        "status" : "Active",
+        "los": ["Tambaram" ,
+        "Kadaperi",
+        "Chromepet Government Hospital",
+        "Chromepet MIT Flyover",
+        "Chromepet",
+        "Oberoi Hotel",	
+        "Ponds Company",
+        "Pallavaram",
+        "Army Camp"],
+        "stop": {
+            "stopid": 1,
+            "stopname": "Tambaram",
+            "lat": 12.9249,
+            "long" : 80.1000
+          },
+        "image" : "chalo-10"
+    }
+]
